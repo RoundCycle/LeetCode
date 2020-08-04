@@ -79,9 +79,4 @@ public class Q12 {
         return stringBuilder.toString();
     }
 
-
-
-    public static void main(String[] args) {
-        System.out.println(intToRoman(1994));
-    }
 }
